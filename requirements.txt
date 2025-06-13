@@ -8,3 +8,6 @@ streamlit
 opencv-python-headless
 Pillow
 rembg
+streamlit
+rembg
+
